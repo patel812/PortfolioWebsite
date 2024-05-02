@@ -9,9 +9,9 @@ const About = () => {
     const [data, setData] = useState({
 
         image: bannerImage,
-        title: "Java Developer & React Developer",
-        desc1: `Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere numquam, itaque molestias quod error soluta nostrum ipsum! Magnam architecto tempora quasi? Doloribus nostrum sequi incidunt molestiae quos officia quam voluptatem!`,
-        desc2: `Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere numquam, itaque molestias quod error soluta nostrum ipsum! Magnam architecto tempora quasi? Doloribus nostrum sequi incidunt molestiae quos officia quam voluptatem!`,
+        title: "Java Developer expertise in back-end development, experienced in Spring boots",
+        desc1: `Dynamic and skilled Java Developer with a passion for creating efficient and scalable backend solutions. Experienced in developing projects for electronic stores`,
+        desc2: `proficient in utilizing Java technologies to deliver high-quality software products. Seeking opportunities to contribute expertise in Java development to innovative projects.`,
         
         actionButton: {
             title: "Read More..",

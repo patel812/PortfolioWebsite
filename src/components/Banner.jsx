@@ -24,7 +24,7 @@ const Banner = () => {
                 <h3 className="mt-2 text-2xl front-semibold" >Hi, I am</h3>
                 <h1 className="mt-2 text-3xl font-bold">Abhishek Kailash Patel</h1>
                 <h2 className="mt-2 text-2xl ">And I am   </h2>
-                <p className="mt-2 text-1xl ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea nam quisquam maxime. Libero consequatur, voluptatem itaque sapiente, eum adipisci suscipit, quia aperiam blanditiis nesciunt earum beatae nulla inventore repudiandae eos.</p>
+                <p className="mt-2 text-1xl ">A software developer with expertise in back-end development, experienced in Spring boots.</p>
               
                 <div className="icons-container flex space-x-5">
                     <a className=" hover:bg-yellow-400 border cursor-pointer  px-3 py-4 w-12 h-12 rounded-full flex justify-center items-center bg-slate-800">
@@ -51,7 +51,7 @@ const Banner = () => {
                 </div>
               
                <br />
-                <a className=" mt-2 px-3 py-2 text-1xl font-bold bg-white text-orange-500 rounded-full shadow-lg" href="/contact">Contact Me</a>
+                <a className=" mt-2 px-3 py-2 text-1xl font-bold bg-white text-orange-500 rounded-full shadow-lg" href="/contact">Email Id:</a>
                
                 </div>
             </div>

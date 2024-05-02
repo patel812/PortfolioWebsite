@@ -42,7 +42,7 @@ const Header = () => {
     ]);
 
     const [actionButton, setActionButton] = useState({
-        title: "Hire Me",
+        title: "Contact Me: + 9137541325",
         link: "/hire-me"
     });
 
